@@ -1,5 +1,11 @@
+# revision 15878
+# category Package
+# catalog-ctan undef
+# catalog-date undef
+# catalog-license undef
+# catalog-version undef
 Name:		texlive-dvipdfmx-def
-Version:	20111101
+Version:	20111103
 Release:	1
 Summary:	TeXLive dvipdfmx-def package
 Group:		Publishing
@@ -33,6 +39,7 @@ TeXLive dvipdfmx-def package.
 #-----------------------------------------------------------------------
 %files
 %{_texmfdistdir}/tex/latex/dvipdfmx-def/dvipdfmx.def
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -43,3 +50,5 @@ TeXLive dvipdfmx-def package.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
