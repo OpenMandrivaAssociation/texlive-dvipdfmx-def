@@ -41,3 +41,17 @@ TeXLive dvipdfmx-def package.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20111103-2
++ Revision: 751228
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20111103-1
++ Revision: 718283
+- texlive-dvipdfmx-def
+- texlive-dvipdfmx-def
+- texlive-dvipdfmx-def
+- texlive-dvipdfmx-def
+
