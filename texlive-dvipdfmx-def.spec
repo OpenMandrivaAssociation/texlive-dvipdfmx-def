@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-dvipdfmx-def
 Version:	20130529
-Release:	1
+Release:	2
 Summary:	Configuration file for dvipdfmx graphics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dvipdfmx-def/dvipdfmx.def
