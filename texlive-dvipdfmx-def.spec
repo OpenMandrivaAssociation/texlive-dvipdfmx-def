@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-dvipdfmx-def
 Version:	20111103
-Release:	2
+Release:	3
 Summary:	TeXLive dvipdfmx-def package
 Group:		Publishing
 URL:		http://tug.org/texlive
