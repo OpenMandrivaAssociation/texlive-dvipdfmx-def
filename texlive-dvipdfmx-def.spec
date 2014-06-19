@@ -1,13 +1,13 @@
-# revision 32770
+# revision 33800
 # category Package
 # catalog-ctan /macros/latex/contrib/dvipdfmx-def/dvipdfmx.def
-# catalog-date 2013-09-22 08:58:08 +0200
+# catalog-date 2014-05-02 18:56:42 +0200
 # catalog-license lppl
-# catalog-version 3.3
-Epoch:		1
+# catalog-version 4.01
 Name:		texlive-dvipdfmx-def
-Version:	3.3
-Release:	2
+Epoch:		1
+Version:	4.01
+Release:	1
 Summary:	Configuration file for dvipdfmx graphics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dvipdfmx-def/dvipdfmx.def
