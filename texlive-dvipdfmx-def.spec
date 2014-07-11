@@ -7,7 +7,7 @@
 Name:		texlive-dvipdfmx-def
 Epoch:		1
 Version:	4.01
-Release:	1
+Release:	2
 Summary:	Configuration file for dvipdfmx graphics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dvipdfmx-def/dvipdfmx.def
