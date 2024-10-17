@@ -10,7 +10,7 @@ Version:	4.01
 Release:	6
 Summary:	Configuration file for dvipdfmx graphics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dvipdfmx-def/dvipdfmx.def
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dvipdfmx-def/dvipdfmx.def
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dvipdfmx-def.tar.xz
 BuildArch:	noarch
